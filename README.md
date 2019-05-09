@@ -1,1 +1,7 @@
-# C_Notes
+# C/C++ Notes
+
+## C
+
+- [Fundamentals](./C/fundamentals.md)
+
+## C++

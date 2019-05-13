@@ -2,6 +2,8 @@
 
 ## C
 
-- [Fundamentals](./C/fundamentals.md)
+- [C Fundamentals](./C/fundamentals.md)
 
 ## C++
+
+- [C++ Fundamentals](./C++/fundamentals.md)
